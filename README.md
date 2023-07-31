@@ -7,11 +7,18 @@ starts with
 
 ## Development
 
-To run this application:
+To run the backend API:
 
-```
+```bash
 npm install
 npm run devserver
+```
+
+To run the frontend:
+
+```bash
+npm run dev
+open http://localhost:3000
 ```
 
 ## Sample POST
@@ -23,3 +30,7 @@ curl \
     -X \
     POST http://localhost:8080/openai/generateinfo
 ```
+
+When using the frontend, try the following recipe:
+
+> 1 cup of all purpose flour, sifted 1 1/2 teaspoon baking powder 1/4 teaspoon salt 2 Tablespoon granulated sugar 1/2 Tablespoon unsalted butter, room temperature Approximately 1/3 cup water
