@@ -7,8 +7,8 @@ const RecipeInfo = () => {
 
     const handleSubmit = async () => {
         try {
-            const response = await axios.post('http://localhost:8080/openai/generateinfo', { recipe });
-            setNutrition(response.data.data);
+            const recipeInfo = await axios.post('http://localhost:8080/openai/generateinfo', { recipe });
+            setNutrition(recipeInfo.data.data);
         } catch (error) {
             console.log(error);
         }
