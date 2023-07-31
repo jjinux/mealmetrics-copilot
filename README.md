@@ -1,4 +1,9 @@
-# GitHub Codespaces ♥️ Next.js
+# How to Build a GPT-3 App with Nextjs, React, and GitHub Copilot
+
+I'm following along with
+[this tutorial](https://github.blog/2023-07-25-how-to-build-a-gpt-3-app-with-nextjs-react-and-github-copilot/).
+
+## GitHub Codespaces ♥️ Next.js
 
 Welcome to your shiny new Codespace running Next.js! We've got everything fired up and running for you to explore Next.js.
 
