@@ -1,12 +1,11 @@
 # How to Build a GPT-3 App with Nextjs, React, and GitHub Copilot
 
-I'm following along with
-[this tutorial](https://github.blog/2023-07-25-how-to-build-a-gpt-3-app-with-nextjs-react-and-github-copilot/)
-which starts with
-[this template](https://github.com/github/codespaces-nextjs).
-Here's the
-[full source](https://github.com/LadyKerr/mealmetrics-copilot)
-from the tutorial.
+This is a sample project based on GPT-3, Nextjs, React, and GitHub Copilot.
+
+ * [Project homepage](https://github.com/jjinux/mealmetrics-copilot)
+ * Based on [this tutorial](https://github.blog/2023-07-25-how-to-build-a-gpt-3-app-with-nextjs-react-and-github-copilot/)
+ * Forked from [this template](https://github.com/github/codespaces-nextjs)
+ * Original tutorial [source code](https://github.com/LadyKerr/mealmetrics-copilot)
 
 ## Development
 
